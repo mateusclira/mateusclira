@@ -1,4 +1,41 @@
-### Hi there 👋
+### Hi there, I'm Mateus 👋
+
+
+## Who am I ?
+- 💻 Data Engineer.
+- 📊 Data Analyst.
+- 💡 Data Driven.
+- 🎓 Bachelor of Computer Engineering - UFPE.
+- 🎓 Master in Strategic Data Analysis and Management - PUC Minas.
+
+
+
+## Skills 💻
+- 🐍 Python.
+- 📋 SQL.
+- 🧮 Power BI.
+- 📊 Data Visualization.
+- 🎲 Data Analysis.
+- 🔮 Kafka 
+- 💽 Kubernetes.
+- 💡 Spark.
+- 💾 Terraform.
+ 
+
+
+## Find me  🌎
+- [Linkedin](https://www.linkedin.com/in/mateusclira/)
+
+
+## Projects 
+
+- [Accidents on BR highway - Master's Data Analysis Project](https://github.com/mateusclira/Projeto-de-dados-acidentes)
+- [iStorage - Ifood's data challenge Project](https://github.com/mateusclira/Data-Analysis-iStorage)
+- [Meetup Data Analysis with Python - Created and presented by myself](https://github.com/mateusclira/Meetup-Analise_Dados_com_Python) 
+- [IaC using Terraform plus WorkFlow on Github - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod1-exercise-igti)
+- [Using Kafka-Kubernetes-Apache Pinot-KsqlDB - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod2-exercise-igti)
+
+
 
 <!--
 **mateusclira/mateusclira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
