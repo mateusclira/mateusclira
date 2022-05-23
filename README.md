@@ -34,6 +34,7 @@
 - [Meetup Data Analysis with Python - Created and presented by myself](https://github.com/mateusclira/Meetup-Analise_Dados_com_Python) 
 - [IaC using Terraform plus WorkFlow on Github - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod1-exercise-igti)
 - [Using Kafka-Kubernetes-Apache Pinot-KsqlDB - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod2-exercise-igti)
+- [Data Science with Python - IBM Certification Path](https://github.com/mateusclira/data-science-IBM)
 
 
 
