@@ -25,6 +25,7 @@
 
 ## Find me  🌎
 - [Linkedin](https://www.linkedin.com/in/mateusclira/)
+- [Youtube](https://www.youtube.com/user/mateusclira/featured)
 
 
 ## Projects 
