@@ -31,8 +31,9 @@
 ## Projects 
 
 - [Accidents on BR highway - Master's Data Analysis Project](https://github.com/mateusclira/Projeto-de-dados-acidentes)
-- [iStorage - Ifood's data challenge Project](https://github.com/mateusclira/Data-Analysis-iStorage)
+- [Data Engineering - Worflow on GCP](https://github.com/mateusclira/edc-desafio-final)
 - [Meetup Data Analysis with Python - Created and presented by myself](https://github.com/mateusclira/Meetup-Analise_Dados_com_Python) 
+- [iStorage - Ifood's data challenge Project](https://github.com/mateusclira/Data-Analysis-iStorage)
 - [IaC using Terraform plus WorkFlow on Github - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod1-exercise-igti)
 - [Using Kafka-Kubernetes-Apache Pinot-KsqlDB - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod2-exercise-igti)
 - [Data Science with Python - IBM Certification Path](https://github.com/mateusclira/data-science-IBM)
