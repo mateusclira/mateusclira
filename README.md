@@ -1,5 +1,6 @@
-### Hi there, I'm Mateus 👋
+# <p align="left"> Hi there, I'm Mateus 👨🏻‍💻 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusclira&label=Profile%20views&color=0e75b6&style=flat" alt="mateusclira" /> </p>
 
 ## Who am I ?
 - 💻 Data Engineer.
@@ -24,8 +25,8 @@
 
 
 ## Find me  🌎
-- [Linkedin](https://www.linkedin.com/in/mateusclira/)
-- [Youtube](https://www.youtube.com/user/mateusclira/featured)
+<p align="left">
+<a href="https://linkedin.com/in/mateusclira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laune-victor/" height="30" width="40" /></a> <a href="https://www.youtube.com/user/mateusclira/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laune-victor/" height="30" width="40" /></a>
 
 
 ## Projects 
