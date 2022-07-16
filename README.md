@@ -8,18 +8,24 @@
 - 🎓 Master in Strategic Data Analysis and Management - PUC Minas.
 
 
-
 ## Skills - Proficient 💻
 - 🐍 Python  
 - 📋 SQL 
-- 💽 Kubernetes. 
-- 💡 Spark.
+- 💽 Kubernetes.
+- 💡 Spark
+- 🐳 Docker 
 - 🧮 Power BI 
 - 🎲 Data Analysis
 
 ## Skills - Studying 👨🏻‍🎓
 - 🔮 Kafka
-- 💾 Terraform.
+- 💾 Terraform
+
+
+## Main cloud skills 💭
+- GCP (GKE, DataProc, BigQuery, Cloud Storage)
+- AWS (Glue, Athena, EC2, EKS, Cloud Formation, S3)
+- Azure (AZ-900 Fundamentals Certified)
 
 ## Languages 🌎
 - PT: Native
