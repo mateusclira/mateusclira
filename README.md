@@ -1,11 +1,9 @@
-# <p align="left"> Hi there, I'm Mateus 👨🏻‍💻 </p>
+# <p align="left"> Looking for a data engineer? I'm Mateus 👨🏻‍💻 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusclira&label=Profile%20views&color=0e75b6&style=flat" alt="mateusclira" /> </p>
 
 ## Who am I ?
 - 💻 Data Engineer.
-- 📊 Data Analyst.
-- 💡 Data Driven.
 - 🎓 Bachelor of Computer Engineering - UFPE.
 - 🎓 Master in Strategic Data Analysis and Management - PUC Minas.
 
@@ -14,19 +12,25 @@
 ## Skills - Proficient 💻
 - 🐍 Python  
 - 📋 SQL 
-- 🧮 Power BI 
-- 📊 Data Visualization
-- 🎲 Data Analysis
 - 💽 Kubernetes. 
 - 💡 Spark.
+- 🧮 Power BI 
+- 🎲 Data Analysis
 
 ## Skills - Studying 👨🏻‍🎓
 - 🔮 Kafka
 - 💾 Terraform.
+
+## Languages 🌎
+- PT: Native
+- EN: Fluent
+- ES: Proficient
+- FR: Basics
+- DE: Basics
  
 
 
-## Find me  🌎
+## Find me  📫
 <p align="left">
 <a href="https://linkedin.com/in/mateusclira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laune-victor/" height="30" width="40" /></a> <a href="https://www.youtube.com/user/mateusclira/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laune-victor/" height="30" width="40" /></a>
 
