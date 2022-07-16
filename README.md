@@ -11,15 +11,17 @@
 
 
 
-## Skills 💻
-- 🐍 Python.
-- 📋 SQL.
-- 🧮 Power BI.
-- 📊 Data Visualization.
-- 🎲 Data Analysis.
-- 🔮 Kafka 
-- 💽 Kubernetes.
+## Skills - Proficient 💻
+- 🐍 Python  
+- 📋 SQL 
+- 🧮 Power BI 
+- 📊 Data Visualization
+- 🎲 Data Analysis
+- 💽 Kubernetes. 
 - 💡 Spark.
+
+## Skills - Studying 👨🏻‍🎓
+- 🔮 Kafka
 - 💾 Terraform.
  
 
