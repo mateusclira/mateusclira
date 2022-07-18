@@ -11,9 +11,10 @@
 ## Skills - Proficient 💻
 - 🐍 Python  
 - 📋 SQL 
-- 💽 Kubernetes.
+- 💽 Kubernetes
 - 💡 Spark
 - 🐳 Docker 
+- 🎡 Airflow
 - 🧮 Power BI 
 - 🎲 Data Analysis
 
