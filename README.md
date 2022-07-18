@@ -40,6 +40,8 @@
 ## Find me  📫
 <p align="left">
 <a href="https://linkedin.com/in/mateusclira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laune-victor/" height="30" width="40" /></a> <a href="https://www.youtube.com/user/mateusclira/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laune-victor/" height="30" width="40" /></a>
+<a href="https://instagram.com/mateusclira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustawo_b/" height="30" width="40" /></a>
+</p>
 
 
 ## Projects 
@@ -51,7 +53,6 @@
 - [IaC using Terraform plus WorkFlow on Github - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod1-exercise-igti)
 - [Using Kafka-Kubernetes-Apache Pinot-KsqlDB - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod2-exercise-igti)
 - [Data Science with Python - IBM Certification Path](https://github.com/mateusclira/data-science-IBM)
-
 
 
 <!--
