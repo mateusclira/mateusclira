@@ -30,7 +30,7 @@
 
 ## Languages 🌎
 - PT: Native
-- EN: Fluent
+- EN: Advanced
 - ES: Proficient
 - FR: Basics
 - DE: Basics
