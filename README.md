@@ -1,9 +1,9 @@
-# <p align="left"> Looking for a data engineer? I'm Mateus 👨🏻‍💻 </p>
+# <p align="left"> Looking for a cloud engineer? I'm Mateus 👨🏻‍💻 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusclira&label=Profile%20views&color=0e75b6&style=flat" alt="mateusclira" /> </p>
 
 ## Who am I ?
-- 💻 Data Engineer.
+- 💻 Cloud Engineer.
 - 🎓 Bachelor of Computer Engineering - UFPE.
 - 🎓 Master in Strategic Data Analysis and Management - PUC Minas.
 
@@ -17,10 +17,12 @@
 - 🎡 Airflow
 - 🧮 Power BI 
 - 🎲 Data Analysis
+- 💾 Terraform
+- 🔭 Terragrunt
 
 ## Skills - Studying 👨🏻‍🎓
 - 🔮 Kafka
-- 💾 Terraform
+
 
 
 ## Main cloud skills 💭
