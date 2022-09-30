@@ -27,8 +27,8 @@
 
 ## Main cloud skills 💭
 - GCP (GKE, DataProc, BigQuery, Cloud Storage)
-- AWS (Glue, Athena, EC2, EKS, Cloud Formation, S3)
-- Azure (AZ-900 Fundamentals Certified)
+- AWS (Practitioner Certified - Aug/2022)
+- Azure (AZ-900 Fundamentals Certified Sep/2021)
 
 ## Languages 🌎
 - PT: Native
