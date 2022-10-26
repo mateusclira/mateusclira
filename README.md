@@ -49,6 +49,7 @@
 ## Projects 
 
 - [Predictive Analysis of Accidents on BR highway - Master's Data Analysis Project - Master's Data Analysis Project](https://github.com/mateusclira/Projeto-de-dados-acidentes)
+- [Deployment of a highly available https Web-App with a Kubernetes Cluster created with Terraform](https://github.com/mateusclira/web-app-https-deployment)
 - [Data Engineering - Worflow on GCP](https://github.com/mateusclira/edc-desafio-final)
 - [Meetup Data Analysis with Python - Created and presented by myself](https://github.com/mateusclira/Meetup-Analise_Dados_com_Python) 
 - [iStorage - Ifood's data challenge Project](https://github.com/mateusclira/Data-Analysis-iStorage)
