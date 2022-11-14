@@ -32,7 +32,7 @@
 
 ## Languages 🌎
 - PT: Native
-- EN: Advanced
+- EN: Fluent
 - ES: Proficient
 - FR: Basics
 - DE: Basics
