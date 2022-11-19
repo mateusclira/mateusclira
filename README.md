@@ -7,37 +7,23 @@
 - 🎓 Bachelor of Computer Engineering - UFPE.
 - 🎓 Master in Strategic Data Analysis and Management - PUC Minas.
 
+[![Github Status](https://github-readme-stats.vercel.app/api?username=mateusclira&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mateusclira)
 
-## Skills - Proficient 💻
-- 🐍 Python  
-- 📋 SQL 
-- 💽 Kubernetes
-- 💡 Spark
-- 🐳 Docker 
-- 🎡 Airflow
-- 🧮 Power BI 
-- 🎲 Data Analysis
-- 💾 Terraform
-- 🔭 Terragrunt
-
-## Skills - Studying 👨🏻‍🎓
-- 🔮 Kafka
-
-
-
-## Main cloud skills 💭
-- GCP (GKE, DataProc, BigQuery, Cloud Storage)
+## Main certifications 💭
 - AWS (Practitioner Certified - Aug/2022)
 - Azure (AZ-900 Fundamentals Certified Sep/2021)
 
-## Languages 🌎
-- PT: Native
-- EN: Fluent
-- ES: Proficient
-- FR: Basics
-- DE: Basics
- 
+## Skills - Proficient 💻
+- 💽 Kubernetes
+- 🐳 Docker 
+- 💾 Terraform
+- 🔭 Terragrunt
+- 🎲 GitOps
+- 🐍 Python  
+- 📋 SQL 
 
+## Skills - Studying 👨🏻‍🎓
+-  🧮 AWS Data Analytics Certification
 
 ## Find me  📫
 <p align="left">
@@ -46,19 +32,12 @@
  <a href="https://medium.com/@mateusclira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gustawo_b/" height="30" width="40" /></a>
 </p>
 
-
-## Projects 
-
-- [Predictive Analysis of Accidents on BR highway - Master's Data Analysis Project - Master's Data Analysis Project](https://github.com/mateusclira/Projeto-de-dados-acidentes)
-- [Deployment of a highly available https Web-App with a Kubernetes Cluster created with Terraform](https://github.com/mateusclira/web-app-https-deployment)
-- [Data Engineering - Worflow on GCP](https://github.com/mateusclira/edc-desafio-final)
-- [Meetup Data Analysis with Python - Created and presented by myself](https://github.com/mateusclira/Meetup-Analise_Dados_com_Python) 
-- [iStorage - Ifood's data challenge Project](https://github.com/mateusclira/Data-Analysis-iStorage)
-- [IaC using Terraform plus WorkFlow on Github - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod1-exercise-igti)
-- [Using Kafka-Kubernetes-Apache Pinot-KsqlDB - Challenge for Cloud Data Engineer IGTI Course](https://github.com/mateusclira/edc-mod2-exercise-igti)
-- [Spark Real Time](https://github.com/mateusclira/spark-real-time)
-- [Data Science with Python - IBM Certification Path](https://github.com/mateusclira/data-science-IBM)
-
+## Languages 🌎
+- PT: Native
+- EN: Fluent
+- ES: Proficient
+- FR: Basics
+- DE: Basics
 
 <!--
 **mateusclira/mateusclira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,5 +51,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+🧮
+💡
+🎡
+🎲
+🔮
 - ⚡ Fun fact: ...
 -->
