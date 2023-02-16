@@ -15,15 +15,22 @@
 
 ## Skills - Proficient 💻
 - 💽 Kubernetes
-- 🐳 Docker 
+- 🐳 Docker
+- 💪 Bicep 
 - 💾 Terraform
 - 🔭 Terragrunt
 - 🎲 GitOps
 - 🐍 Python  
-- 📋 SQL 
+- 📋 SQL
+- 🧙‍♂️ Azure DevOps
+- ⚙️ CI/CD
+- 🐙 ArgoCD
+- ♾️ DevOps
+- 🔰 DevSecOps
+- 🌐 DNS
 
 ## Skills - Studying 👨🏻‍🎓
--  🧮 AWS Data Analytics Certification
+-  🧮 Azure Administrator AZ-104
 
 ## Find me  📫
 <p align="left">
