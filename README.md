@@ -1,7 +1,5 @@
 # <p align="left"> Looking for a cloud expert? I'm Mateus 👨🏻‍💻 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusclira&label=Profile%20views&color=0e75b6&style=flat" alt="mateusclira" /> </p>
-
 ## Who am I?
 - 💻 Site Reliability Engineer.
 - 🎓 Bachelor of Computer Engineering - UFPE.
