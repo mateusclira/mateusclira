@@ -5,13 +5,14 @@
 - 🎓 Bachelor of Computer Engineering - UFPE.
 - 🎓 Master in Strategic Data Analysis and Management - PUC Minas.
 
-- I use automation to provide cloud infrastructure safe and smoothly, making you more profit with less worries.
+- I use automation to provide safe and smooth cloud infrastructure, making you more profitable with fewer worries.
 
 ## Main certifications 💭
+- CKA (Certification Kubernetes Administrator - Dec/2024)
 - AWS (Practitioner Certified - Aug/2022)
 - Azure (AZ-900 Fundamentals Certified Sep/2021)
 
-## Skills - Proficient 💻
+## Main Skills 💻
 - 💽 Kubernetes
 - 🐳 Docker
 - 💪 Bicep 
@@ -26,9 +27,6 @@
 - ♾️ DevOps
 - 🔰 DevSecOps
 - 🌐 DNS
-
-## Skills - Studying 👨🏻‍🎓
--  🧮 Azure Administrator AZ-104
 
 ## Find me  📫
 <p align="left">
