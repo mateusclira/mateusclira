@@ -1,9 +1,9 @@
-# <p align="left"> Looking for a cloud expert? I'm Mateus 👨🏻‍💻 </p>
+# <p align="left"> Looking for a cloud specialist? I'm Mateus 👨🏻‍💻 </p>
 
 ## Who am I?
-- 💻 Site Reliability Engineer.
+- 💻 Software Engineer - DevOps/SRE/Platform Engineer.
 - 🎓 Bachelor of Computer Engineering - UFPE.
-- 🎓 Master in Strategic Data Analysis and Management - PUC Minas.
+- 🎓 Master's in Strategic Data Analysis and Management - PUC Minas.
 
 - I use automation to provide safe and smooth cloud infrastructure, making you more profitable with fewer worries.
 
